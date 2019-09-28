@@ -1,4 +1,19 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e69b82c1ef434959b89041e3a70d4511)](https://www.codacy.com/app/alistairmcmillan75/JSBill?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=alistairmcmillan/JSBill&amp;utm_campaign=Badge_Grade)
+mod of original code here https://github.com/alistairmcmillan/JSBill
+
+* requires python
+
+* linux
+
+git clone https://github.com/c4pt000/JSBill-Xbill-jetblack
+
+```
+cd JSBill-Xbill-jetblack
+run the folder with ./web-start
+point web browser to http://localhost
+```
+* mod of JSBill where bill gates is jet black or has turned inside out and villinous as completely black instead of bill gates normally being white, (added a final exclaimation where "bill" gasps "no" as he is expended from fixing(breaking) networked computers with windows, (also added a $100 bill entering his back pocket when he successfully repairs(breaks) each networked computer
+
 
 JSBill
 ======
@@ -56,8 +71,3 @@ Options:
 	options are supported.
 
 
-Authors:
-	Main Programmer:
-		Brian Wellington <bwelling@xbill.org>
-	Programming & graphics (v2.0 and earlier):
-		Matias Duarte <matias@hyperimage.com>
