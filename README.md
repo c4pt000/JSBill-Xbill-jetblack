@@ -16,6 +16,7 @@ point web browser to http://localhost
 ```
 * mod of JSBill where bill gates is jet black or has turned inside out and villinous as completely black instead of bill gates normally being white, (added a final exclaimation where "bill" gasps "no" as he is expended from fixing(breaking) networked computers with windows, (also added a $100 bill entering his back pocket when he successfully repairs(breaks) each networked computer
 
+* also "bill" throws an ms-dos 6.22 manual into the empty panel of the monitor for 1/2 a second before (fixing)breaking the monitor by sealing it with windows
 
 JSBill
 ======
