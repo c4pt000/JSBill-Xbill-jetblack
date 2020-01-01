@@ -77,4 +77,4 @@ Options:
 	When using the Athena or Motif GUI, all standard X Intrinsics
 	options are supported.
 
-
+possible refactor to XCook -> Tim Cook trying to cook chinese labor workers(wearing straw rice hats) in cooking pots instead of bill gates installing windows the objective to stop him from cooking chinese labor workers,
