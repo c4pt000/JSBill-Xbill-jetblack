@@ -19,7 +19,7 @@ point web browser to http://localhost
 * also "bill" throws an ms-dos 6.22 manual into the empty panel of the monitor for 1/2 a second before (fixing)breaking the monitor by sealing it with windows
 
 
-<p align="center"><img src="https://github.com/c4pt000/JSBill-Xbill-jetblack/raw/master/animated-out-xbill.gif" width="800"></p>
+<p align="center"><img src="https://github.com/c4pt000/JSBill-Xbill-jetblack/raw/master/animated-out-xbill.gif" width="600"></p>
 
 JSBill
 ======
