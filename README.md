@@ -4,6 +4,7 @@
 mod of original code here https://github.com/alistairmcmillan/JSBill
 
 * requires python
+* requires pip install SimpleHTTPServer
 
 * linux
 
