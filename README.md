@@ -78,3 +78,19 @@ Options:
 	options are supported.
 
 possible refactor to XCook -> Tim Cook trying to cook chinese labor workers(wearing straw rice hats) in cooking pots instead of bill gates installing windows the objective to stop him from cooking chinese labor workers,
+
+
+donate via google pay
+
+bc1q7ap44v0e8tz506fqvdygd7zztluvrl73pd527q
+
+or 
+
+if you found this useful,
+
+https://www.binance.com/userCenter/deposit.html      << for bitcoin mc/visa
+
+
+
+
+m
