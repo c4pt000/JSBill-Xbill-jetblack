@@ -80,7 +80,7 @@ Options:
 possible refactor to XCook -> Tim Cook trying to cook chinese labor workers(wearing straw rice hats) in cooking pots instead of bill gates installing windows the objective to stop him from cooking chinese labor workers,
 
 
-https://www.binance.com/userCenter/deposit.html      << for bitcoin mc/visa
+
 
 
 
